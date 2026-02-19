@@ -9,6 +9,7 @@ from .aws import (
 )
 from .tools import (
     AIMindTool,
+    BotEmailTool,
     ApifyActorsTool,
     ArxivPaperTool,
     BraveSearchTool,
